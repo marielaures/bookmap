@@ -1,0 +1,65 @@
+[
+    {
+        "model": "bookmap.pin",
+        "pk": 1,
+        "fields": {
+            "name": "Canal Saint Martin",
+            "latitude": 48.8764964,
+            "longitude": 2.367139
+        }
+    },
+    {
+        "model": "bookmap.pin",
+        "pk": 2,
+        "fields": {
+            "name": "Bubble Tea",
+            "latitude": 48.8598746,
+            "longitude": 2.349763
+        }
+    },
+    {
+        "model": "bookmap.pin",
+        "pk": 3,
+        "fields": {
+            "name": "Grand Palais",
+            "latitude": 48.8665777,
+            "longitude": 2.311635
+        }
+    },
+    {
+        "model": "bookmap.pin",
+        "pk": 4,
+        "fields": {
+            "name": "Des G\u00e2teaux et du Pain",
+            "latitude": 48.85385,
+            "longitude": 2.32395
+        }
+    },
+    {
+        "model": "bookmap.pin",
+        "pk": 5,
+        "fields": {
+            "name": "Rue Sainte Anne",
+            "latitude": 48.8669927,
+            "longitude": 2.335868
+        }
+    },
+    {
+        "model": "bookmap.pin",
+        "pk": 6,
+        "fields": {
+            "name": "Comptoir G\u00e9n\u00e9ral",
+            "latitude": 48.8724233,
+            "longitude": 2.365542
+        }
+    },
+    {
+        "model": "bookmap.pin",
+        "pk": 7,
+        "fields": {
+            "name": "Fromagerie Beaufils",
+            "latitude": 48.8743631,
+            "longitude": 2.388165
+        }
+    }
+]
